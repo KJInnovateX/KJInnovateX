@@ -18,17 +18,8 @@ Hello! I'm Karan Jadhav, a passionate and results-oriented developer with expert
   - Problem Solving  
   - Software Development  
 
-<--## 📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
-## 🌟 **Highlighted Projects**  
-- **[AI-Powered Smart Shopping Cart](https://github.com/your-username/your-repo)**: Revolutionizing retail with AI and IoT for a seamless shopping experience.  
-- **[Digital Twin for Hydroelectric Plants](https://github.com/your-username/your-repo)**: Predictive maintenance using ML to ensure optimal turbine performance.  
-- **[Health App](https://github.com/your-username/your-repo)**: Image-based food recognition and health analytics.  
--->
 ## 📫 **Get in Touch**  
-- 🌐 [LinkedIn](https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/karan-jadhav-699750195/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/karan-jadhav-699750195/ )  
 - ✉️ Email: karanjadhav3526@gmail.com  
 
 ---
