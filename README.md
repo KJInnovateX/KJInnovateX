@@ -25,8 +25,3 @@ Hello! I'm Karan Jadhav, a passionate and results-oriented developer with expert
 ---
 
 🌟 "Innovating for a smarter, more connected world." 🌟  
-
-## 🔗 **LinkedIn Profile Badge**  
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="karan-jadhav-699750195" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/karan-jadhav-699750195?trk=profile-badge">Karan Jadhav</a></div>  
-
----
